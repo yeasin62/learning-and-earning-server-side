@@ -1,0 +1,74 @@
+[
+    {
+        "course_id": "01",
+        "rating": "4.5",
+        "total_purchased": 19500,
+        "name": "HTML",
+        "Instructor": "Rifat Ahmad",
+        "description": "HTML courses provide web browsers with instructions on how to display web content including text, graphics, and links to other web pages. These courses initiate formation of documents by indulging structural cementation for texts like headings, links, paragraphs, list, quotes and many other items. ",
+        "image":"https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.webp",
+        "logo":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
+        "title":"Build Responsive Real-World Websites with HTML and CSS",
+        "subtitle":"Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid"
+    },
+    {
+        "course_id": "02",
+        "rating": "4.3",
+        "total_purchased": 1200,
+        "name": "CSS",
+        "Instructor": "Rasel Ahmed",
+        "description": "Cascading Style Sheets (CSS) are the main coding files used to lay out a website and its design. CSS3 is the latest in styling standards, and it brings several new properties and declarations you can use to make your website design more easily created. CSS is currently the only standard in website design that plugs directly into your HTML, even the latest HTML5 standards. With CSS3 and HTML5, you can create the latest interactive pages for your website viewers.",
+        "image":"https://rehansaeed.com/images/hero/CSS-1600x900.png",
+        "logo":"https://cdn-icons-png.flaticon.com/512/919/919826.png",
+        "title":"CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)",
+        "subtitle":"Learn CSS for the first time or brush up your CSS skills and dive in even deeper. EVERY web developer has to know CSS."
+    },
+    {
+        "course_id": "03",
+        "rating": "4.6",
+        "total_purchased": 14300,
+        "name": "Javascript",
+        "Instructor": "Jhankar Mahabub",
+        "description": "This class introduces the JavaScript language, with a focus on advanced language features and client-side programming. Topics covered include basic syntax, object-oriented programming, closures, higher-order functions, the DOM, and AJAX. The class will also introduce recent libraries, including jQuery, Backbone.js, node.js, and d3. The class will include in-class coding exercises and assignments consisting of implementation of web applications.",
+        "image":"https://cyberhoot.com/wp-content/uploads/2020/07/Free-Courses-to-learn-JavaScript-1024x576.jpg",
+        "logo":"https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png",
+        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "subtitle":"The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+    },
+    {
+        "course_id": "04",
+        "rating": "4.1",
+        "total_purchased": 55500,
+        "name": "Php",
+        "Instructor": "Hasin Hydar",
+        "description": "PHP is a widely used server-side scripting language that has become increasingly fast and powerful through the years. You can also use it on the front-end since PHP can be embedded right into HTML. These features make learning PHP a great option for any web developer. In this course, you’ll work through PHP fundamental programming concepts and gain the skills necessary to develop programs in PHP.",
+        "image":"https://linuxwizardry.com/wp-content/uploads/2022/01/phplogo-750x375.jpeg",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
+        "title":"PHP for Beginners - Become a PHP Master - CMS Project",
+        "subtitle":"PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects."
+    },
+    {
+        "course_id": "05",
+        "rating": "4.6",
+        "total_purchased": 77500,
+        "name": "Java",
+        "Instructor": "Anisul Islam",
+        "description": "Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects.",
+        "image":"https://venturebeat.com/wp-content/uploads/2015/12/oracle-java-e1450723340931.jpg?fit=750%2C422&strip=all",
+        "logo":"https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png",
+        "title":"Java Programming Masterclass covering Java 11 & Java 17",
+        "subtitle":"Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification"
+    },
+    {
+        "course_id": "06",
+        "rating": "4.3",
+        "total_purchased": 13200,
+        "name": "Python",
+        "Instructor": "Jhankar Mahabub",
+        "description": "Python was conceived in the late 1980s[41] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC programming language, which was inspired by SETL,[42] capable of exception handling and interfacing with the Amoeba operating system.[12] Its implementation began in December 1989.[43] Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his \"permanent vacation\" from his responsibilities as Python's \"benevolent dictator for life\", a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker.[44] In January 2019, active Python core developers elected a five-member Steering Council to lead the project.[45][46]",
+        "image":"https://res.cloudinary.com/practicaldev/image/fetch/s--YCJxZP4V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/tteuu4xw5tomxb7l0xjx.png",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+        "title":"100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+        "subtitle":"Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!"
+    }
+]
