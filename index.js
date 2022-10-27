@@ -17,6 +17,10 @@ app.get('/courses',(req,res)=>{
     res.send(courses);
 })
 
+app.get('/all',(req,res)=>{
+    res.send(course);
+})
+
 app.get('/course/:id',(req,res)=>{
     console.log(req.params.id);
     const id = req.params.id;

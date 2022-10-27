@@ -9,7 +9,8 @@
         "image":"https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.webp",
         "logo":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
         "title":"Build Responsive Real-World Websites with HTML and CSS",
-        "subtitle":"Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid"
+        "subtitle":"Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid",
+        "price": 299
     },
     {
         "course_id": "02",
@@ -18,10 +19,11 @@
         "name": "CSS",
         "Instructor": "Rasel Ahmed",
         "description": "Cascading Style Sheets (CSS) are the main coding files used to lay out a website and its design. CSS3 is the latest in styling standards, and it brings several new properties and declarations you can use to make your website design more easily created. CSS is currently the only standard in website design that plugs directly into your HTML, even the latest HTML5 standards. With CSS3 and HTML5, you can create the latest interactive pages for your website viewers.",
-        "image":"https://rehansaeed.com/images/hero/CSS-1600x900.png",
+        "image":"https://logos-world.net/wp-content/uploads/2022/02/CSS-Insurance-Logo-700x394.png",
         "logo":"https://cdn-icons-png.flaticon.com/512/919/919826.png",
         "title":"CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)",
-        "subtitle":"Learn CSS for the first time or brush up your CSS skills and dive in even deeper. EVERY web developer has to know CSS."
+        "subtitle":"Learn CSS for the first time or brush up your CSS skills and dive in even deeper. EVERY web developer has to know CSS.",
+        "price": 399
     },
     {
         "course_id": "03",
@@ -33,7 +35,8 @@
         "image":"https://cyberhoot.com/wp-content/uploads/2020/07/Free-Courses-to-learn-JavaScript-1024x576.jpg",
         "logo":"https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png",
         "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
-        "subtitle":"The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+        "subtitle":"The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "price": 145
     },
     {
         "course_id": "04",
@@ -45,7 +48,8 @@
         "image":"https://linuxwizardry.com/wp-content/uploads/2022/01/phplogo-750x375.jpeg",
         "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
         "title":"PHP for Beginners - Become a PHP Master - CMS Project",
-        "subtitle":"PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects."
+        "subtitle":"PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
+        "price": 499
     },
     {
         "course_id": "05",
@@ -57,7 +61,8 @@
         "image":"https://venturebeat.com/wp-content/uploads/2015/12/oracle-java-e1450723340931.jpg?fit=750%2C422&strip=all",
         "logo":"https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png",
         "title":"Java Programming Masterclass covering Java 11 & Java 17",
-        "subtitle":"Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification"
+        "subtitle":"Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+        "price": 265
     },
     {
         "course_id": "06",
@@ -69,6 +74,7 @@
         "image":"https://res.cloudinary.com/practicaldev/image/fetch/s--YCJxZP4V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/tteuu4xw5tomxb7l0xjx.png",
         "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
         "title":"100 Days of Code: The Complete Python Pro Bootcamp for 2022",
-        "subtitle":"Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!"
+        "subtitle":"Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+        "price": 999
     }
 ]
